@@ -1,15 +1,25 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://pub-2f92044261534bbcbe485687cc521feb.r2.dev/campaigns/866c3b93/html/sedgars/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-866c3b93/karl-lagerfeld/sitemap.xml
+
+https://cloud-authority-pages.github.io/cloud-links-866c3b93/karl-lagerfeld/866c3b93--karl-lagerfeld-t-shirt.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/karl-lagerfeld/866c3b93/karl-lagerfeld-t-shirt-price-in-south-africa.html
+https://authority.gitlab.io/cloud-links-866c3b93/karl-lagerfeld/866c3b93--karl-lagerfeld-t-shirt-price.html
+https://cloud-links-866c3b93.netlify.app/karl-lagerfeld/866c3b93--karl-lagerfeld-t-shirts-price.html
+https://cab-r2-proxy.cabcdn.workers.dev/karl-lagerfeld/karl-lagerfeld-t-vereenigin-f0c0ed/karl-lagerfeld-tracksuit.html
+https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/karl-lagerfeld/866c3b93/karl-lagerfeld-cotton-tee.html
+https://cloud-links-866c3b93.vercel.app/karl-lagerfeld/866c3b93--premium-lagerfeld-graphic-tee
+https://cloud-links.b-cdn.net/karl-lagerfeld/866c3b93/designer-lagerfeld-short-sleeve.html
+https://s3.us-east-1.wasabisys.com/linkhub/karl-lagerfeld/866c3b93/karl-lagerfeld-logo-shirt.html
+https://cloud-links.neocities.org/karl-lagerfeld/karl-lagerfeld-t-vereenigin-f0c0ed--mens-lagerfeld-crew-neck.html
+https://cloud-links.s3.nl-ams.scw.cloud/karl-lagerfeld/866c3b93/luxury-lagerfeld-print-tee.html
+https://cloud-links-866c3b93-c5019c.surge.sh/karl-lagerfeld/866c3b93--karl-lagerfeld-slim-fit-tee.html
+https://cloud-links.ewr1.vultrobjects.com/karl-lagerfeld/866c3b93/karl-lagerfeld-fashion-top.html
+https://0kfoc.upcloudobjects.com/cloud-links/karl-lagerfeld/866c3b93/authentic-lagerfeld-casual-shirt.html
+https://cloud-links.t3.tigrisbucket.io/karl-lagerfeld/866c3b93/karl-lagerfeld-branded-tee.html
+https://j6a4.c18.e2-5.dev/cloud-links/karl-lagerfeld/866c3b93/lagerfeld-signature-t-shirt.html
+https://object-storage.nz-por-1.catalystcloud.io/v1/AUTH_c332ce830ed4484498bccfc1d13947b3/cloud-links/karl-lagerfeld/866c3b93/karl-lagerfeld-weekend-wear.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/karl-lagerfeld/866c3b93/karl-lagerfeld-stylish-tee.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/karl-lagerfeld/866c3b93/mens-designer-lagerfeld-top.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/karl-lagerfeld/866c3b93/karl-lagerfeld-everyday-tee.html
